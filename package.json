@@ -1,0 +1,27 @@
+{
+  "name": "kitchen_findr_react",
+  "version": "1.0.0",
+  "description": "Kitchen Finder w/ React & HapiJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redhendery/react_map.git"
+  },
+  "keywords": [
+    "React",
+    "Google",
+    "Map"
+  ],
+  "author": "Red Hendery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redhendery/react_map/issues"
+  },
+  "homepage": "https://github.com/redhendery/react_map#readme",
+  "dependencies": {
+    "hapi": "^15.1.1"
+  }
+}
